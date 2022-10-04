@@ -1,4 +1,4 @@
-# Hacktoberfest 2022 - Brazillian Teams Flags Code
+# Hacktoberfest 2022 - Brazillian Teams Flags Using Code
 Brazillian Teams Flags Using Code
 
 ## Inpired by
